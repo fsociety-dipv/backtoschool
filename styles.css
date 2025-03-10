@@ -3,7 +3,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
-    background-image: url('bschool.png'); /* Cambia 'fondo.jpg' por la ruta de tu imagen */
+    background-image: url('https://i.postimg.cc/C5FV5QFM/bschool.png'); /* Cambia 'fondo.jpg' por la ruta de tu imagen */
     background-size: cover;
     background-position: center;
     height: 100vh;
